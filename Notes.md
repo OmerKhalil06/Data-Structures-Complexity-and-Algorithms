@@ -57,6 +57,7 @@ print('Our new result: %s' % squares)
 # result: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
 
+---
 
 # Map and Filter in Python 
 ---
@@ -106,8 +107,3 @@ print('Odd Numbers from 1 to 100:', odds)
 ### Composition Functions:
 * Using a function within a function
 * Applying one function to the result of another function 
-
-
-
-
-
